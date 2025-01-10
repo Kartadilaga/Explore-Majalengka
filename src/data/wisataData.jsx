@@ -478,7 +478,7 @@ const wisataData = [
     nama: "Talaga herang ",
     lokasi: "Sindangwangi, Majalengka",
     deskripsi:
-      "Talaga Herang menjadi salah satu dari sekian banyaknya tempat wisata Majalengka paling hits dengan suguhan panorama menawan dan menakjubkan. Wisa ini memiliki danau kecil dengan air yang amat sangat jernih serta dihiasi ikan – ikan luci didalamnya. Air di talaha herang ini berasal dari gunung ciremai dan mengalir dari sungai bawah tanah. Aktivitas mandi di talaga herang menjadi daya tarik utama dari destinasi wisata satu ini. Panorama talaga herang menyajikan kolam dengan air jernih kebiruan serta pemandangan hijau yang mempesona rekomended untuk liburan keluarga. Terdapat fasilitas yang kumplit mulai dari area parkir, toilet,memberi makan ikan, warung makanan/minuman.",
+      "Talaga Herang menjadi salah satu dari sekian banyaknya tempat wisata Majalengka paling hits dengan suguhan panorama menawan dan menakjubkan. Wisata ini memiliki danau kecil dengan air yang amat sangat jernih serta dihiasi ikan – ikan luci didalamnya. Air di talaga herang ini berasal dari gunung ciremai dan mengalir dari sungai bawah tanah. Aktivitas mandi di talaga herang menjadi daya tarik utama dari destinasi wisata satu ini. Panorama talaga herang menyajikan kolam dengan air jernih kebiruan serta pemandangan hijau yang mempesona rekomended untuk liburan keluarga. Terdapat fasilitas yang kumplit mulai dari area parkir, toilet,memberi makan ikan, warung makanan/minuman.",
     gambar: "/assets/Pictusre22.jpg",
     jadwal: {
       Senin: { sesi: "Senin - Minggu", waktu: "06:00 - 17:00" },
